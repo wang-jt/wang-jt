@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-**My Name is Jayten Wang 王钧涛**.
+My Name is **Jayten Wang 王钧涛**.
 
-- 🏫 I'm an undergraduate student in Tonji University.
+- 🏫 I'm an undergraduate student in Tongji University.
 - 💻 I major in Computer Science and Technology.
-- 🔭 I'm an **ACMer** in Tongji CPC-Lab and achieved Silver Medal in 2022 ACM-ICPC ASIA Regional Contest.
+- 🔭 I'm an ACMer in Tongji CPC-Lab and achieved Silver Medal in 2022 ACM-ICPC ASIA Regional Contest.
 - 📃 My interest is on System Structure & Machine Learning.
 - 📫 How to reach me: jayten.wang@gmail.com
 
