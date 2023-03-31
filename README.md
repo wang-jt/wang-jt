@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is **Jayten Wang 王钧涛**.
+My Name is **Jayten Wang**.
 
 - 🏫 I'm an undergraduate student in Tongji University.
 - 💻 I major in Computer Science and Technology.
