@@ -4,7 +4,7 @@ My Name is **Jayten Wang**.
 
 - 🏫 I'm an undergraduate student in Tongji University.
 - 💻 I major in Computer Science and Technology.
-- 🔭 I'm an ACMer in Tongji CPC-Lab and achieved Silver Medal in 2022 ACM-ICPC ASIA Regional Contest.
+- 🔭 I'm an ACMer in Tongji CPC-Lab.
 - 📃 My interest is on System Structure & Machine Learning.
 - 📫 How to reach me: jayten.wang@gmail.com
 
