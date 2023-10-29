@@ -2,10 +2,10 @@
 
 My Name is **Jayten Wang**.
 
-- 🏫 I'm an undergraduate student in Tongji University.
+- 🏫 I'm a graduate student in Tongji University.
 - 💻 I major in Computer Science and Technology.
 - 🔭 I'm an ACMer in Tongji CPC-Lab.
-- 📃 My interest is on System Structure & Machine Learning.
+- 📃 My interest is on Machine Learning & Quant.
 - 📫 How to reach me: jayten.wang@gmail.com
 
 ![Baneist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneist&count_private=true)
