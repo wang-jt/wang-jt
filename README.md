@@ -1,4 +1,4 @@
-### Hi there 👋 this is Jayten (Juntao) Wang.
+### Hi there 👋 this is [Jayten (Juntao) Wang](wang-jt.github.io).
 
 ![Baneist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneist&count_private=true)
 
@@ -8,6 +8,4 @@
 - 📃 Researching on **machine learning & quant**.
 - 📫 How to reach me: jayten.wang@gmail.com
 
-  **For More Details:** wang-jt.github.io
-  
 ![Baneist's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baneist&count_private=true)
