@@ -1,4 +1,4 @@
-### Hi there 👋 this is [Jayten (Juntao) Wang](wang-jt.github.io).
+### Hi there 👋 this is [Jayten (Juntao) Wang](https://wang-jt.github.io).
 
 ![Baneist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneist&count_private=true)
 
