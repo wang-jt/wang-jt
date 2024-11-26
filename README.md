@@ -7,5 +7,3 @@
 - 🔭 **ACMer** in Tongji CPC-Lab.
 - 📃 Researching on **machine learning & quant**.
 - 📫 How to reach me: jayten.wang@gmail.com
-
-![Baneist's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-jt&count_private=true)
