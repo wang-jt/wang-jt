@@ -5,7 +5,6 @@
 ![Baneist's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang-jt&count_private=true)
 
 **About myself**:
-- 🏫 **Master student** at Tongji University, Shanghai China.
-- 🔭 **ACMer** in Tongji CPC-Lab.
-- 📃 Researching on **machine learning & quant**.
-- 📫 How to reach me: jayten.wang@gmail.com
+- 🎓 B.S. & M.S. Candidate in Computer Science (2020 - Present), Tongji University, Shanghai
+- 🔭 ACMer @ TJ CPC-Lab | Machine Learning & Futures Hedging
+- 📫 jayten.wang@gmail.com
