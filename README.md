@@ -6,5 +6,5 @@
 
 **About myself**:
 - 🎓 B.S. & M.S. Candidate in Computer Science (2020 - Present), Tongji University, Shanghai
-- 🔭 ACMer @ TJ CPC-Lab | Machine Learning & Futures Hedging
+- 🔭 ACMer @ TJ CPC-Lab | Machine Learning & Time Series Analysis
 - 📫 jayten.wang@gmail.com
